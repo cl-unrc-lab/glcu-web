@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Group on Logic and Computation"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "GyL"
 sitemap: false
 permalink: /research/
 ---

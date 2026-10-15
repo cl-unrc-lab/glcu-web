@@ -1,18 +1,28 @@
 ---
-title: "Allan Lab - Home"
+title: "Grupo de Teoría de la Computación y Sistemas Críticos"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "GTC-SC"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News: We have a new webpage!**  
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are a research group at [Department of Computing, UNRC](https://dc.exa.unrc.edu.ar).
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+The GTC-SC (Group on Theory of Computation and Critical Systems) group is focused on the aplication of methodologies coming from logic and theoretical computer science to the development of correct critical systems, and automated tools to support them. 
+
+Our interestes include formal methods such as model checking, automata theory, game theory, category theory; as well as their application to the automated verification of critical systems.
+
+More precisely, our research interests include:
+
+* Logics for computer science: this covers different kinds of logics that are used with application to CS, some of them are deontic logics, modal logics, high order logics, etc.
+
+* Verification of critical systems: 
+
+* Safe AI: methods and theory that can be used to implement safe IA systems.
+
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,18 +68,10 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
+We are currently building tools to support the construction of correct critical systems, you can check them in the top menu.
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-dc.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/unrc-icon.png" style="width: 140px">
 </figure>

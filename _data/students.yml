@@ -7,5 +7,26 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Nicolas Streri
+  photo: NN.png
+  info: PhD Student
+  email: nstreri@dc.exa.unrc.edu.ar
+  number_educ: 0
+
+- name: Valentino Natali
+  photo: NN.png
+  info: PhD Student
+  email: nstreri@dc.exa.unrc.edu.ar
+
+- name: Valentino Natali
+  photo: NN.png
+  info: PhD Student
+  email: nstreri@dc.exa.unrc.edu.ar
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
 
 
